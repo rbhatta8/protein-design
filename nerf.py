@@ -6,15 +6,12 @@ first 3, the bond length (l),
 bond angle (theta), and torsion
 angle (chi)
 
-Reference: http://onlinelibrary.wiley.com/doi/10.1002/jcc.20237/full
-
 Rohit Bhattacharya
 rohit.bhattachar@gmail.com
 '''
 
 # imports
 import numpy as np
-
 
 def nerf(a, b, c, l, theta, chi):
     '''
